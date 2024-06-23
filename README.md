@@ -1,6 +1,9 @@
 # 20210513 전세영
 
-[여기](http://startbootstrap.com/template-overviews/freelancer/)를 클릭하시면 웹사이트에 들어가실 수 있습니다.
+이 저장소는 BlackWhiteMoon의 개인 웹사이트를 호스팅하는 곳입니다.
+
+방문하려면 [여기](https://blackwhitemoon.github.io/)를 클릭하세요!
+
 
 ## Getting Started
 
